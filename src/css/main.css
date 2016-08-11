@@ -62,7 +62,7 @@
     font-size: 20px;
     width: 15px;
     height: 15px;
-    color: #bbb;
+    color: lightskyblue;
     &:hover {
         color: black;
         transition: 0.1s;
@@ -89,23 +89,29 @@
 
 .left {
     float: left;
+    font-size: 20px;
+    color: lightskyblue;
 }
 .name__sity {
     font-size: 20px;
-    color: #bbb;
+    color: lightskyblue;
+}
+
+.name__station {
+    color: lightskyblue;
 }
 
 .wi-big {
     transform: scale(3);
     float: right;
-    color: #bbb;
+    color: lightskyblue;
     margin-top: 25px;
     margin-right: 40px;
 }
 
 .show__hide {
     font-size: 16px;
-    color: #bbb;
+    color: lightskyblue;
     cursor: pointer;
     &:hover {
         color: black;
